@@ -1,0 +1,83 @@
+
+ 
+ body{
+ 	background-color: #1657bf;
+
+	
+
+ }
+
+h1 {
+    text-align: center;
+	font-family: 'Raleway', sans-serif;
+	color: #dce2ed;
+	font-size: 55pt;
+	-webkit-text-stroke: 1px Gold;
+
+}
+
+.firstLetter{
+	font-family: 'Raleway', sans-serif;
+	color: #1657bf;
+	font-size: 30pt;
+	/* -webkit-text-stroke: 1px red; */ 
+	-webkit-text-stroke: 1px Gold;
+}
+
+h2 {
+	width: 60%;
+	margin-left:auto;
+	margin-right:auto;
+	
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+	color: Gold;
+
+}
+
+#rsPic {
+	width: 80px;
+	float: right;
+}
+
+#imageBox {
+	
+	width: 60%;
+	
+	padding-bottom: 5%;
+
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.navButton{
+	width: 10%;
+	float: left;
+	
+}
+
+#picWindow{
+	width:80%;
+	float: left;
+	
+}
+.arrowButton {
+	width:100%;
+	margin-top: 350%;
+	
+
+}
+#recordBar {
+	width: 100%;
+	padding-left:20%;
+	margin-bottom: 3%;
+	height: 126px;
+}
+
+.record{
+	display:block;
+	float:left;
+	height: 125px;
+	border: 2px solid DeepPink;
+}
+
